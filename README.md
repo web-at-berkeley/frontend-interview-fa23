@@ -19,7 +19,7 @@ There will be no skeleton provided for this project since you are able to use an
 
 Use the documentation below to complete your project.
 
-- Figma Designs: https://www.figma.com/file/rIbUHgPr25ieJv5mC7AXfu/%5BFA-23%5D-Frontend-Technical-Project?type=design&node-id=0-1&mode=design&t=xxpcK8DLXfSTJEQb-0
+- Figma Designs: https://www.figma.com/file/rIbUHgPr25ieJv5mC7AXfu/%5BFA-23%5D-Frontend-Technical-Project?type=design&node-id=0%3A1&mode=design&t=1NMKGoid574qrhQj-1
 - Next.js (optional): https://nextjs.org/
 - Chakra UI (optional): https://chakra-ui.com/
 
@@ -33,7 +33,7 @@ Note: If you are completing the bootcamp technical project, there is no need to 
 
 ### Task 2
 
-Complete the Landing page UI in the home page of your project. Make sure to follow the [Figma]( https://www.figma.com/file/rIbUHgPr25ieJv5mC7AXfu/%5BFA-23%5D-Frontend-Technical-Project?type=design&node-id=0-1&mode=design&t=xxpcK8DLXfSTJEQb-0) provided.
+Complete the Landing page UI in the home page of your project. Make sure to follow the [Figma](https://www.figma.com/file/rIbUHgPr25ieJv5mC7AXfu/%5BFA-23%5D-Frontend-Technical-Project?type=design&node-id=0%3A1&mode=design&t=1NMKGoid574qrhQj-1) provided.
 
 ### Task 3
 
