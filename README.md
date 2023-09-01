@@ -27,9 +27,9 @@ Use the documentation below to complete your project.
 
 ### Task 1
 
-Complete the navbar component. Clicking the icon or text in the top left should take you back to the home page and clicking "About" should take you to the about-us page clicking "Contestants" should take you to the contestants page.
+Complete the navbar component. Clicking the icon or text in the top left should take you back to the home page, clicking "About" should take you to the About Us page, and clicking "Contestants" should take you to the contestants page.
 
-Note: If you are completing the bootcamp technical project, there is no need to build the contestants page.  Feel free to link "Contestants" back to the homepage.
+Note: If you are completing the Bootcamp technical project, there is no need to build the contestants page.  Feel free to link "Contestants" back to the homepage.
 
 ### Task 2
 
