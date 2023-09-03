@@ -7,6 +7,8 @@ If you have any questions, please reach out to us at our email: webatberkeley@gm
 ## Clarifications
 There are two Figma pages in the link below ("Bootcamp" and "Industry" -- access them in the top left). Please make sure you click on the project you are completing to see all of what you will complete. 
 
+1. **IMPORTANT**: the Gradescope entry code is `EJRZ4G`, please use that!
+
 ## Introduction
 
 Our client is the annual Husband Calling Contest, and we will be building their website. Their description is as follows:
@@ -52,7 +54,7 @@ Complete the Contestants page. This page displays all of the contestants with an
 ## Submission
 
 **Congratulations!** To submit your project, please make sure your project is in a GitHub repo that is set to private. You will be submitting your code on [Gradescope](https://www.gradescope.com/). If you do not have a Gradescope account, please create one. If you are unable to create one, please email us
-immediately. The Gradescope course code is `601283`. You will see two different assignments: `Frontend Project` and `Backend Project`. _Please only submit to Frontend Technical Project._ You can ignore Backend Technical Project.
+immediately. The Gradescope course code is `EJRZ4G`. You will see two different assignments: `Frontend Project` and `Backend Project`. _Please only submit to Frontend Technical Project._ You can ignore Backend Technical Project.
 
 The technical project will be due by Tuesday, 9/5 at 10:00 AM PST. We will be unable to respond to clarification emails sent in after then. If you have any questions about the project, please let us know before then by email. Also reach out if you have any issues with the Gradescope submission (note that there is no autograder for this project so we will be reviewing your code manually).
 
